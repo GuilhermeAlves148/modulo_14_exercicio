@@ -1,0 +1,62 @@
+body {
+    font-family: 'Poiret One', sans-serif;
+}
+
+.section-title {
+    font-family: 'Limelight', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(0, 0, 48);
+}
+.navbar-toggler {
+    border-style: none;
+}
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: rgb(0, 0, 48);
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand, .navbar-brand:hover,
+.nav-plaza .nav-link.active:hover {
+    color: #fff;
+}
+
+#sobre,
+#shows,
+#plaza,
+#contato {
+    color: #fff;
+    background-color: black;
+}
+
+.nav-plaza .nav-link.active,
+#contato button {
+    background-color: rgb(0, 0, 48);
+    color: #fff;
+}
+.nav-plaza .nav-link {
+    color: #fff;
+}
+
+form {
+    background-color: black;
+}
+
+textarea {
+    resize: none;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+.social-links li a {
+    text-decoration: none;
+}
+
+.text-white {
+    color: #fff;
+    text-decoration: none;
+}
